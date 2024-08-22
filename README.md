@@ -1,6 +1,11 @@
-# Code to compute the power profile using MARS
+# Code to compute the power profile of contact lenses using the MARS algorithm
 
 Matlab code to fit the power profile of contact lenses using the MARS algorithm.
+
+The Multivariate adaptive regression spline (MARS) is a non-parametric
+regression algorithm.
+See https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_spline for
+an overview.
 
 This code was used in the paper:
 
