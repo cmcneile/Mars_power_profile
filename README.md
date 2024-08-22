@@ -18,7 +18,7 @@ H.D.1 1. University of Plymouth,  Plymouth UK
 
 ##  Background
 
-This project is part of the program:
+This project is part of the research program:
 [MRI and Optical Modelling of the Human Eye to Elucidate Myopia
 Development](https://www.plymouth.ac.uk/research/eye-and-vision-research-group/the-human-myopia-research-laboratory/mri-and-optical-modelling)
 
