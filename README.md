@@ -8,14 +8,15 @@ This code was used in the paper:
 Contact Lenses: A Novel Approach.**
 
 Gorham, A.J.1, Buckhurst, P.J.1, McNeile, C.1, Hall, S1 and Buckhurst,
-H.D.1 1. Plymouth of University, Faculty of Health, Plymouth UK
+H.D.1 1. University of Plymouth,  Plymouth UK
 
 
 ##  Background
 
 This project is part of the program:
-(MRI and Optical Modelling of the Human Eye to Elucidate Myopia
-Development)[https://www.plymouth.ac.uk/research/eye-and-vision-research-group/the-human-myopia-research-laboratory/mri-and-optical-modelling]
+[MRI and Optical Modelling of the Human Eye to Elucidate Myopia
+Development](https://www.plymouth.ac.uk/research/eye-and-vision-research-group/the-human-myopia-research-laboratory/mri-and-optical-modelling)
+
 
 
 
