@@ -1,8 +1,8 @@
-# Code to compute the power profile of contact lenses using the MARS algorithm
+# Code to compute the power profile of contact lenses using the EARTH algorithm
 
-Matlab code to fit the power profile of contact lenses using the MARS algorithm.
+Matlab code to fit the power profile of contact lenses using the EARTH algorithm.
 
-The Multivariate adaptive regression spline (MARS) is a non-parametric
+The Multivariate adaptive regression spline (MARS known as the EARTH algorithm) is a non-parametric
 regression algorithm.
 See https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_spline for
 an overview of the algorithm.
