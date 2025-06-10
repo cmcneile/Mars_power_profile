@@ -12,9 +12,11 @@ This code was used in the paper:
 **Characterizing Power Profiles of Non-Aspheric Myopia Control Soft
 Contact Lenses: A Novel Approach.**
 
-Gorham, A.J.1, Buckhurst, P.J.1, McNeile, C.1, Hall, S1 and Buckhurst,
-H.D.1 1. University of Plymouth,  Plymouth UK
+Mawhinney  A.J, Buckhurst P.J, McNeile C, Hall S and Buckhurst
+H.D.  University of Plymouth,  Plymouth UK
 
+Published in Contact Lens and Anterior Eye
+https://www.sciencedirect.com/science/article/pii/S1367048425000888
 
 ##  Background
 
